@@ -1,0 +1,1 @@
+insert into alumnos (matricula, nombre, apellido_paterno, apellido_materno) values (182975, 'Prueba', 'García', 'Saldicvar');
